@@ -49,7 +49,7 @@ if __name__ == "__main__":
                                              TwitterConstants.consumer_secret,
                                              TwitterConstants.access_token_key,
                                              TwitterConstants.access_token_secret,
-                                             "ramon_lujan")
+                                             "XXXXXXXX")
 
         while True:
             print("polling...")
